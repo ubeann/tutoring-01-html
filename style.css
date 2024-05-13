@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(88, 88, 88);
+}
+
+.container-navbar{
+    background-color: black;
+    width: 100%px;
+    height: 100%px;
+}
+
+.ul-navbar{
+    justify-content: center;
+    display: flex;
+}
+
+.li-navbar{
+
+    background-color: black;
+    list-style-type: none;
+    padding: 20px;
+    color: white;
+    margin: 5px;
+    font-size: 30px;
+}
+
+
+.container-contact{
+    background-color: gray;
+}
+
+.container-about{
+    background-color: gray;
+}
+
+.kontak{
+    justify-content: center;
+    display: flex;
+}
+
+.NOMOR{
+    justify-content: center;
+    display: flex;
+
+}
+
+.kontak-boyi{
+    background-color: black;
+    padding: 20px;
+    color: white;
+    margin: 5px;
+    font-size: 30px;
+}
+
+.h1r{
+    justify-content: center;
+    display: flex;
+
+}
+
